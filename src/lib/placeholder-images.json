@@ -1,3 +1,76 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "split-section-image",
+      "description": "A rural Indian woman in traditional attire making ghee.",
+      "imageUrl": "https://picsum.photos/seed/split/800/600",
+      "imageHint": "indian woman traditional"
+    },
+    {
+      "id": "highlight-ghee-jar",
+      "description": "A premium glass jar of ghee on a clean, elegant background.",
+      "imageUrl": "https://picsum.photos/seed/gheejar/800/600",
+      "imageHint": "ghee jar"
+    },
+    {
+      "id": "product-1",
+      "description": "Classic A2 Ghee in a branded jar.",
+      "imageUrl": "https://picsum.photos/seed/p1/800/600",
+      "imageHint": "ghee product"
+    },
+    {
+      "id": "product-2",
+      "description": "Herbal Infused Ghee bottle.",
+      "imageUrl": "https://picsum.photos/seed/p2/800/600",
+      "imageHint": "ghee product"
+    },
+    {
+      "id": "product-3",
+      "description": "Spiced Ghee jar with spices around it.",
+      "imageUrl": "https://picsum.photos/seed/p3/800/600",
+      "imageHint": "spices ghee"
+    },
+    {
+      "id": "product-4",
+      "description": "Cultured Ghee in a ceramic pot.",
+      "imageUrl": "https://picsum.photos/seed/p4/800/600",
+      "imageHint": "ghee product"
+    },
+    {
+      "id": "product-5",
+      "description": "Aged Ghee in a dark glass bottle.",
+      "imageUrl": "https://picsum.photos/seed/p5/800/600",
+      "imageHint": "ghee bottle"
+    },
+    {
+      "id": "product-6",
+      "description": "Ghee & Jaggery Spread in an open jar.",
+      "imageUrl": "https://picsum.photos/seed/p6/800/600",
+      "imageHint": "ghee spread"
+    },
+    {
+      "id": "team-1",
+      "description": "Portrait of Rajesh Kumar.",
+      "imageUrl": "https://picsum.photos/seed/t1/400/400",
+      "imageHint": "indian man"
+    },
+    {
+      "id": "team-2",
+      "description": "Portrait of Sunita Devi.",
+      "imageUrl": "https://picsum.photos/seed/t2/400/400",
+      "imageHint": "indian woman"
+    },
+    {
+      "id": "team-3",
+      "description": "Portrait of Amit Singh.",
+      "imageUrl": "https://picsum.photos/seed/t3/400/400",
+      "imageHint": "indian man portrait"
+    },
+    {
+      "id": "team-4",
+      "description": "Portrait of Priya Sharma.",
+      "imageUrl": "https://picsum.photos/seed/t4/400/400",
+      "imageHint": "indian woman portrait"
+    }
+  ]
 }
