@@ -12,8 +12,8 @@ export function HeroSection() {
       <div className="container mx-auto min-h-[calc(100vh-4rem)] px-4">
         <div className="grid min-h-[calc(100vh-4rem)] grid-cols-1 items-center gap-12 md:grid-cols-2">
           <div className="z-10 max-w-xl space-y-6 text-center md:text-left">
-            <h1 className="font-headline text-6xl font-bold tracking-tight sm:text-8xl lg:text-9xl bg-gradient-to-r from-primary via-yellow-400 to-amber-500 bg-clip-text text-transparent -rotate-2 drop-shadow-sm">
-              Ghritam
+            <h1 className="font-headline text-6xl font-bold tracking-tight sm:text-8xl lg:text-9xl text-primary -rotate-2 drop-shadow-sm">
+              Amrit
             </h1>
             <p className="font-headline text-2xl text-muted-foreground sm:text-3xl">
               Premium Pure Ghee
