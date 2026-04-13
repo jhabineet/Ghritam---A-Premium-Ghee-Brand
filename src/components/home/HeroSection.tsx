@@ -13,11 +13,7 @@ export function HeroSection() {
         <div className="grid min-h-[calc(100vh-4rem)] grid-cols-1 items-center gap-12 md:grid-cols-2">
           <div className="z-10 max-w-xl space-y-6 text-center md:text-left">
             <h1 className="font-headline text-7xl font-bold tracking-tight sm:text-9xl lg:text-[10rem] text-primary -rotate-3 drop-shadow-lg">
-              <span className="underline decoration-wavy decoration-primary/50 decoration-4 underline-offset-[12px]">
-                <span className="underline decoration-wavy decoration-primary/50 decoration-2 underline-offset-[4px]">
-                  Ghritam
-                </span>
-              </span>
+              G<span className="underline decoration-wavy decoration-primary/50 decoration-4 underline-offset-8">hritam</span>
             </h1>
             <p className="font-headline text-2xl text-muted-foreground sm:text-3xl">
               Premium Pure Ghee
