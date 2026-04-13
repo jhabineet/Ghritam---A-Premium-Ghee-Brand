@@ -1,6 +1,12 @@
 {
   "placeholderImages": [
     {
+      "id": "hero-image",
+      "description": "A realistic rural Indian village scene with a bowl of golden ghee.",
+      "imageUrl": "https://picsum.photos/seed/hero/1200/800",
+      "imageHint": "indian village ghee"
+    },
+    {
       "id": "split-section-image",
       "description": "A rural Indian woman in traditional attire making ghee.",
       "imageUrl": "https://picsum.photos/seed/split/800/600",

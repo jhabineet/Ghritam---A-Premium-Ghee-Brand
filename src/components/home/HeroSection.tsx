@@ -1,11 +1,11 @@
-import { generateHeroImage } from '@/ai/flows/generate-hero-image';
+import { PlaceHolderImages } from '@/lib/placeholder-images';
 import Image from 'next/image';
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
 import { ArrowRight } from 'lucide-react';
 
-export async function HeroSection() {
-  const { imageDataUri } = await generateHeroImage({});
+export function HeroSection() {
+  const heroImage = PlaceHolderImages.find(p => p.id === 'hero-image');
 
   return (
     <div className="relative overflow-hidden">
@@ -34,14 +34,15 @@ export async function HeroSection() {
             </div>
           </div>
           <div className="relative h-full w-full min-h-[300px] md:min-h-[500px]">
-             {imageDataUri && (
+             {heroImage && (
               <Image
-                src={imageDataUri}
-                alt="A realistic rural Indian village scene with a bowl of golden ghee"
+                src={heroImage.imageUrl}
+                alt={heroImage.description}
                 fill
                 priority
                 className="rounded-lg object-cover shadow-2xl"
                 sizes="(max-width: 768px) 100vw, 50vw"
+                data-ai-hint={heroImage.imageHint}
               />
             )}
           </div>

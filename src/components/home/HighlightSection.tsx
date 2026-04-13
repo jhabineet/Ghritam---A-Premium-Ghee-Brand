@@ -1,4 +1,3 @@
-import { generateHighlightText } from '@/ai/flows/generate-highlight-text';
 import { PlaceHolderImages } from '@/lib/placeholder-images';
 import Image from 'next/image';
 
@@ -23,8 +22,8 @@ const ItalicizedText = ({ text }: { text: string }) => {
 };
 
 
-export async function HighlightSection() {
-  const highlightText = await generateHighlightText();
+export function HighlightSection() {
+  const highlightText = '"*Purity at its peak* – crafted with tradition and care to deliver the finest quality ghee"';
   const highlightImage = PlaceHolderImages.find(p => p.id === 'highlight-ghee-jar');
 
   return (
