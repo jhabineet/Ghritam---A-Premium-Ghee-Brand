@@ -17,7 +17,7 @@ export function Navbar() {
     <header className="sticky top-0 z-50 w-full border-b border-border/40 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <div className="container mx-auto flex h-16 max-w-7xl items-center justify-between px-4">
         <Link href="/" className="flex items-center gap-2">
-          <span className="font-headline text-2xl font-bold">Ghritam</span>
+          <span className="font-headline text-2xl font-bold text-primary">Ghritam</span>
         </Link>
 
         <nav className="hidden items-center gap-6 md:flex">
@@ -51,7 +51,7 @@ export function Navbar() {
               <div className="flex h-full flex-col">
                 <div className="flex items-center justify-between border-b pb-4">
                     <Link href="/" className="flex items-center gap-2" onClick={() => setSheetOpen(false)}>
-                        <span className="font-headline text-xl font-bold">Ghritam</span>
+                        <span className="font-headline text-xl font-bold text-primary">Ghritam</span>
                     </Link>
                     <SheetTrigger asChild>
                         <Button variant="ghost" size="icon">
