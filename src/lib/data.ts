@@ -43,6 +43,24 @@ export const products = [
     description: 'A healthy and delicious spread for your toast and rotis.',
     imageId: 'product-6',
   },
+  {
+    id: 7,
+    name: 'Turmeric Infused Ghee',
+    description: 'Golden ghee with the anti-inflammatory benefits of turmeric.',
+    imageId: 'product-7',
+  },
+  {
+    id: 8,
+    name: 'Garlic Ghee',
+    description: 'A savory ghee perfect for cooking meats and vegetables.',
+    imageId: 'product-8',
+  },
+  {
+    id: 9,
+    name: 'Rose Petal Ghee',
+    description: 'A fragrant ghee for desserts and special occasions.',
+    imageId: 'product-9',
+  },
 ];
 
 export const whyChooseItems = [

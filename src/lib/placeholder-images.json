@@ -2,9 +2,9 @@
   "placeholderImages": [
     {
       "id": "hero-image",
-      "description": "A realistic rural Indian village scene with a bowl of golden ghee.",
+      "description": "A rustic yet elegant flat lay of ghee in a ceramic bowl, surrounded by wheat stalks and a soft, warm fabric on a wooden table. The lighting is soft and natural.",
       "imageUrl": "https://picsum.photos/seed/hero/1200/800",
-      "imageHint": "indian village ghee"
+      "imageHint": "ghee rustic elegant"
     },
     {
       "id": "split-section-image",
@@ -53,6 +53,24 @@
       "description": "Ghee & Jaggery Spread in an open jar.",
       "imageUrl": "https://picsum.photos/seed/p6/800/600",
       "imageHint": "ghee spread"
+    },
+    {
+      "id": "product-7",
+      "description": "Ghee with turmeric.",
+      "imageUrl": "https://picsum.photos/seed/p7/800/600",
+      "imageHint": "ghee turmeric"
+    },
+    {
+      "id": "product-8",
+      "description": "Ghee with garlic.",
+      "imageUrl": "https://picsum.photos/seed/p8/800/600",
+      "imageHint": "ghee garlic"
+    },
+    {
+      "id": "product-9",
+      "description": "Ghee with rose petals.",
+      "imageUrl": "https://picsum.photos/seed/p9/800/600",
+      "imageHint": "ghee rose"
     },
     {
       "id": "team-1",
