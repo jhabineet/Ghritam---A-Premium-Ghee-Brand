@@ -6,7 +6,7 @@ import { Footer } from '@/components/common/Footer';
 import { Toaster } from '@/components/ui/toaster';
 
 export const metadata: Metadata = {
-  title: 'Ghritam – Premium Pure Ghee',
+  title: 'Ghritam',
   description: 'Premium pure ghee made with the traditional bilona process from A2 cow milk.',
   icons: {
     icon: '/favicon.ico',

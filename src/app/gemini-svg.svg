@@ -1,0 +1,9 @@
+<svg width="300" height="100" viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="40" cy="50" r="35" fill="none" stroke="#8B5E3C" stroke-width="2"/>
+  <circle cx="40" cy="50" r="30" fill="#8B5E3C"/>
+  <text x="40" y="62" font-family="serif" font-size="36" font-weight="bold" text-anchor="middle" fill="#FAF8F4">G</text>
+  
+  <text x="90" y="55" font-family="Playfair Display, serif" font-size="32" font-weight="bold" fill="#8B5E3C" style="letter-spacing: 6px;">GHRITAM</text>
+  
+  <text x="90" y="75" font-family="PT Sans, sans-serif" font-size="10" fill="#6B7280" style="letter-spacing: 3px; text-transform: uppercase;">Premium Bilona Ghee</text>
+</svg>
