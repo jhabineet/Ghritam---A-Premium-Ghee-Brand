@@ -17,7 +17,7 @@ export default function ContactPage() {
           <div className="group rounded-lg border-2 border-dashed border-primary/50 bg-primary/5 p-6 transition-colors hover:border-primary hover:bg-primary/10">
             <h3 className="flex items-center justify-center gap-3 font-headline text-2xl font-bold text-primary sm:text-3xl">
               <Phone className="h-7 w-7 transition-transform group-hover:scale-110" />
-              <a href="tel:+911234567890">+91 12345 67890</a>
+              <a href="tel:+911234567890">+91 82406 58689</a>
             </h3>
             <p className="mt-2 text-muted-foreground">Call us for direct inquiries</p>
           </div>
@@ -25,7 +25,7 @@ export default function ContactPage() {
           <div className="group rounded-lg border bg-secondary/30 p-6 transition-shadow hover:shadow-md">
              <h3 className="flex items-center justify-center gap-3 font-headline text-xl font-bold text-foreground">
               <Mail className="h-6 w-6 text-primary" />
-              <a href="mailto:info@ghritam.com" className="hover:underline">info@ghritam.com</a>
+              <a href="mailto:info@ghritam.com" className="hover:underline">ajitjha0502@gmail.com</a>
             </h3>
              <p className="mt-2 text-muted-foreground">Email us for other questions</p>
           </div>

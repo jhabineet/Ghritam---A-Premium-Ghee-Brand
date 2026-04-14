@@ -3,74 +3,62 @@
     {
       "id": "hero-image",
       "description": "A rustic yet elegant flat lay of ghee in a ceramic bowl, surrounded by wheat stalks and a soft, warm fabric on a wooden table. The lighting is soft and natural.",
-      "imageUrl": "https://picsum.photos/seed/hero/1200/800",
+      "imageUrl": "/images/hero-sections.png",
       "imageHint": "ghee rustic elegant"
     },
     {
       "id": "split-section-image",
       "description": "A rural Indian woman in traditional attire making ghee.",
-      "imageUrl": "https://picsum.photos/seed/split/800/600",
+      "imageUrl": "/images/bilona-process.png",
       "imageHint": "indian woman traditional"
     },
     {
       "id": "highlight-ghee-jar",
       "description": "A premium glass jar of ghee on a clean, elegant background.",
-      "imageUrl": "https://picsum.photos/seed/gheejar/800/600",
+      "imageUrl": "/images/splitwala.png",
       "imageHint": "ghee jar"
     },
     {
       "id": "product-1",
       "description": "Classic A2 Ghee in a branded jar.",
-      "imageUrl": "https://picsum.photos/seed/p1/800/600",
+      "imageUrl": "/images/2ndOne.png",
       "imageHint": "ghee product"
     },
     {
       "id": "product-2",
       "description": "Herbal Infused Ghee bottle.",
-      "imageUrl": "https://picsum.photos/seed/p2/800/600",
+      "imageUrl": "/images/glass-jarBottle.png",
       "imageHint": "ghee product"
     },
     {
       "id": "product-3",
       "description": "Spiced Ghee jar with spices around it.",
-      "imageUrl": "https://picsum.photos/seed/p3/800/600",
+      "imageUrl": "/images/5.jpeg",
       "imageHint": "spices ghee"
     },
     {
       "id": "product-4",
       "description": "Cultured Ghee in a ceramic pot.",
-      "imageUrl": "https://picsum.photos/seed/p4/800/600",
+      "imageUrl": "/images/3rdOne.png",
       "imageHint": "ghee product"
     },
     {
       "id": "product-5",
       "description": "Aged Ghee in a dark glass bottle.",
-      "imageUrl": "https://picsum.photos/seed/p5/800/600",
+      "imageUrl": "/images/whiteBG.png",
       "imageHint": "ghee bottle"
     },
     {
       "id": "product-6",
       "description": "Ghee & Jaggery Spread in an open jar.",
-      "imageUrl": "https://picsum.photos/seed/p6/800/600",
+      "imageUrl": "/images/1.jpeg",
       "imageHint": "ghee spread"
     },
     {
       "id": "product-7",
       "description": "Ghee with turmeric.",
-      "imageUrl": "https://picsum.photos/seed/p7/800/600",
+      "imageUrl": "/images/hero-image.jpeg",
       "imageHint": "ghee turmeric"
-    },
-    {
-      "id": "product-8",
-      "description": "Ghee with garlic.",
-      "imageUrl": "https://picsum.photos/seed/p8/800/600",
-      "imageHint": "ghee garlic"
-    },
-    {
-      "id": "product-9",
-      "description": "Ghee with rose petals.",
-      "imageUrl": "https://picsum.photos/seed/p9/800/600",
-      "imageHint": "ghee rose"
     },
     {
       "id": "team-1",
@@ -92,7 +80,7 @@
     },
     {
       "id": "team-4",
-      "description": "Portrait of Priya Sharma.",
+      "description": "Portrait of Priyanka Sharma.",
       "imageUrl": "https://picsum.photos/seed/t4/400/400",
       "imageHint": "indian woman portrait"
     }

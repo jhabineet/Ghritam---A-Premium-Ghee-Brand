@@ -49,18 +49,6 @@ export const products = [
     description: 'Golden ghee with the anti-inflammatory benefits of turmeric.',
     imageId: 'product-7',
   },
-  {
-    id: 8,
-    name: 'Garlic Ghee',
-    description: 'A savory ghee perfect for cooking meats and vegetables.',
-    imageId: 'product-8',
-  },
-  {
-    id: 9,
-    name: 'Rose Petal Ghee',
-    description: 'A fragrant ghee for desserts and special occasions.',
-    imageId: 'product-9',
-  },
 ];
 
 export const whyChooseItems = [
@@ -93,14 +81,14 @@ export const whyChooseItems = [
 export const teamMembers = [
   {
     id: 1,
-    name: 'Rajesh Kumar',
+    name: 'Aditya Jha',
     role: 'Founder & Ghee Artisan',
     imageId: 'team-1',
   },
   {
     id: 2,
-    name: 'Sunita Devi',
-    role: 'Head of Operations',
+    name: 'Bineet Jha',
+    role: 'Software Developer',
     imageId: 'team-2',
   },
   {
@@ -111,7 +99,7 @@ export const teamMembers = [
   },
   {
     id: 4,
-    name: 'Priya Sharma',
+    name: 'Priyanka Sharma',
     role: 'Customer Relations',
     imageId: 'team-4',
   },
