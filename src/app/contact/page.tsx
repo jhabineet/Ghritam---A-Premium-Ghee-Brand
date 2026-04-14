@@ -25,7 +25,7 @@ export default function ContactPage() {
           <div className="group rounded-lg border bg-secondary/30 p-6 transition-shadow hover:shadow-md">
              <h3 className="flex items-center justify-center gap-3 font-headline text-xl font-bold text-foreground">
               <Mail className="h-6 w-6 text-primary" />
-              <a href="mailto:info@ghritam.com" className="hover:underline">ajitjha0502@gmail.com</a>
+              <a href="mailto:ajitjha0502@gmail.com" className="hover:underline">ajitjha0502@gmail.com</a>
             </h3>
              <p className="mt-2 text-muted-foreground">Email us for other questions</p>
           </div>
